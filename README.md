@@ -1,1 +1,1 @@
-"Mi primer fichero en mi primer repositorio, <Marisol Gamba Cabezas>"
+"Mi primer fichero en mi primer repositorio, Marisol Gamba Cabezas"
